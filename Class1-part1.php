@@ -1,5 +1,6 @@
 <?php
 $user_agent = "beepboophpforslack(https://beepboophq.com/proxy/df8f78fa88614ab48d35c4eee71d39fb/slack/command)";
+$authentication = POST "1905e73b0c47453ab36d3d2f6c75742f-1424767196";
 $token = $_POST[ '0sZkDe3wGjudeOQcEgxJixFN' ];
 if ($token != '0sZkDe3wGjudeOQcEgxJixFN' ){
   $msg = "The token doesnt match";
