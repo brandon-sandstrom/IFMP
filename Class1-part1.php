@@ -1,4 +1,3 @@
-
 <?php
 $token = $_POST[ '0sZkDe3wGjudeOQcEgxJixFN' ];
 if ($token != '0sZkDe3wGjudeOQcEgxJixFN' ){
