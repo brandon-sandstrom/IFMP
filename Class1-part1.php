@@ -8,10 +8,11 @@ if ($token != '0sZkDe3wGjudeOQcEgxJixFN' ){
 }
 $channel_name = [ 'mentors' ];
 $user_list = [ 'name'];
-   $msg = "you dont have access to this!"
+ if ($user_list != 'name' ){  
+  $msg = "you dont have access to this!"
    die ($msg);
    echo $msg;
-}   
+}
 {
 $response = ($token, TRUE);
 $response = (in_chanel);
