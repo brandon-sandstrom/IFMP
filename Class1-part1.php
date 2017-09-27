@@ -1,5 +1,6 @@
 <?php
-curl -X GET -H "Authorization: Bearer 1905e73b0c47453ab36d3d2f6c75742f-1424767196>" "https://beepboophq.com/api/v1/slack-teams"
+curl -X GET -H "Authorization: Bearer 1905e73b0c47453ab36d3d2f6c75742f-1424767196>" "https://beepboophq.com/api/v1/slack-teams";
+}
 $token = $_POST[ '0sZkDe3wGjudeOQcEgxJixFN' ];
 if ($token != '0sZkDe3wGjudeOQcEgxJixFN' ){
   $msg = "The token doesnt match";
