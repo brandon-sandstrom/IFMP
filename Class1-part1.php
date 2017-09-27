@@ -7,7 +7,7 @@ if ($token != '0sZkDe3wGjudeOQcEgxJixFN' ){
   die ($msg);
   echo $msg;
 }
-$user_list = [ 'name'];
+$channel = [ 'mentors' ], $user_list = [ 'name'];
  if ($user_list != 'name' ){  
   $msg = "you dont have access to this!"
    die ($msg);
