@@ -18,6 +18,7 @@ $response = ($token, TRUE);
 } else {
 $response = ($user_list, TRUE);
 $response = (in_chanel);
-$reply = "Class 1 flight rules  https://docs.google.com/document/d/1iu7OkoGMPm8mmFguPCBMx9Jaf1LmZrXmAXEQ6A1lr94/edit?usp=sharing";
+$reply = "_Class 1 flight rules_
+https://docs.google.com/document/d/1iu7OkoGMPm8mmFguPCBMx9Jaf1LmZrXmAXEQ6A1lr94/edit?usp=sharing";
 }
 echo $reply;
