@@ -1,4 +1,6 @@
+<?dockerfile
 FROM brandon-sandstrom/IFMP
+
 LABEL \
 maintiner= "sandstromb@yahoo.com" \
 version="1.0" \
