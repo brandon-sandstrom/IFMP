@@ -1,4 +1,4 @@
-<?dockerfile
+<M?php
 FROM brandon-sandstrom/IFMP
 
 LABEL \
