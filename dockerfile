@@ -1,4 +1,3 @@
-<?php
 FROM brandon-sandstrom/IFMP
 
 LABEL \
