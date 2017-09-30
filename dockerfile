@@ -1,5 +1,5 @@
 FROM docker daemon 68.61 kB
-docker build -t sampleimage0.1
+$ docker build -t sampleimage0.1
 step 1 : FROM daemon 68.61 kB
 step 2 : RUN add~apt~repository
 ifmp/master
